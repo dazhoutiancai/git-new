@@ -11,5 +11,6 @@ public class stu {
         System.out.println("test 合并");
         System.out.println("mast test");
         System.out.println("git test");
+        System.out.println("push test");
     }
 }
