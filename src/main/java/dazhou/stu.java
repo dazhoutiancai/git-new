@@ -9,5 +9,6 @@ public class stu {
         System.out.println("Nih1");
         System.out.println("你是谁");
         System.out.println("test 合并");
+        System.out.println("mast test");
     }
 }
